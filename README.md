@@ -17,14 +17,17 @@ Trabajé con hojas de cálculo como fuente de datos, usé Power Query para la li
 - Mapa geográfico de distribución global.
 - Filtros interactivos por región.
 
+![Previa1](https://github.com/eliancba/GlobalWasteIndex2022/blob/main/GLOBAL%20WASTE%20INDEX/imagenes/previa%201.jpeg)
+
+![Previa2](https://github.com/eliancba/GlobalWasteIndex2022/blob/main/GLOBAL%20WASTE%20INDEX/imagenes/previa%202.jpeg)
 
 #
 
 ## Archivos
 
-power bi(.pbix)
+[Power Bi(.pbix)](https://github.com/eliancba/GlobalWasteIndex2022/tree/main/GLOBAL%20WASTE%20INDEX/pbix)
 
-dataset (xlsx)
+[dataset(.txt)](https://github.com/eliancba/GlobalWasteIndex2022/tree/main/GLOBAL%20WASTE%20INDEX/DATA)
 
 ## Tecnologías utilizadas
 
